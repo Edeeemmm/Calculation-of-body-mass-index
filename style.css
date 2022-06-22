@@ -208,7 +208,7 @@ form:after {
 	box-shadow: 0 0 20px rgba(126, 123, 123, 0.3);
 }
 .reset_button{
-	background-color: rgb(121, 14, 14);
+	background: rgb(114, 77, 8);
 	color: var(--color);
 	border-radius: 10px;
 	cursor: pointer;
